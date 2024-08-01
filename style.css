@@ -1,0 +1,87 @@
+.main{
+    border: 1px solid black;
+    border-color: #E2E2B6;
+    background-color: #E2E2B6;
+}
+.logo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin-left: 100px;
+    color: #021526;
+}
+.search{
+    margin-left: 250px;
+}
+li{
+    display: inline;
+    margin: 12px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+
+}
+.list{
+    border: 1px solid black;
+    border-color: #E2E2B6;
+    background-color: #E2E2B6;
+    margin-top: 5px;
+    text-align: center;
+}
+.mainimg{
+    background-image: url(https://uni-user.s3.amazonaws.com/un/unisupport2/unisupport22022-02-02T07-22-53-803660.jpg);
+    padding-top: 250px;
+    padding-bottom: 250px;
+    width: 2000px;
+    text-align: center;
+    color: #6EACDA;
+    font-size: 20px;
+}
+.h1{
+    font-size: 60px;
+}
+.h2{
+    color: #021526;
+    font-size: 30px;
+}
+.button{
+    font-size: 26px;
+    width: 200px;
+    height: 50px;
+    background-color: #021526;
+    color: #E2E2B6;
+    font-family: cursive;
+}
+.transform{
+    font-size: 70px;
+    text-align: center;
+    color: #6EACDA;
+    text-shadow: 2px -2px 4px  #E2E2B6;
+    border: 1px solid black;
+    background-color: #021526;
+    border-radius: 200px 200px 200px 200px;
+    -webkit-border-radius: 200px 200px 200px 200px;
+    -moz-border-radius: 200px 200px 200px 200px;
+}
+.allimg{
+    background-image: url(Sideboards.jpg);
+    background-repeat: no-repeat;
+    height: 526px;
+    width: 511px;
+    text-align: left;
+    padding-top: 250px;
+    padding-left: 60px;
+    padding-bottom: 0px;
+    color: #E2E2B6;
+    font-size: 30px;
+}
+.allimg button{
+    padding: 10px;
+    font-size: 20px;
+    font-family: cursive;
+    background-color: #021526;
+    color: #E2E2B6;
+}
+
+
+
+    
